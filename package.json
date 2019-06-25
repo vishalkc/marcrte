@@ -1,0 +1,34 @@
+{
+  "name": "marcrte",
+  "version": "1.0.0",
+  "description": "MARC Editor",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkc/marcrte.git"
+  },
+  "author": "Vishal K C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishalkc/marcrte/issues"
+  },
+  "homepage": "https://github.com/vishalkc/marcrte#readme",
+  "dependencies": {
+    // "js-polyfills": "^0.1.42",
+    "raw-loader": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.5"
+  }
+}

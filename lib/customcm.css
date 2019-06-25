@@ -1,0 +1,24 @@
+.CodeMirror {border: 1px solid silver; margin-bottom: 1em;max-height:70px;
+    /*height: 70px;*/
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 5px;
+    
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal; }
+dt { text-indent: -2em; padding-left: 2em; margin-top: 1em; }
+dd { margin-left: 1.5em; margin-bottom: 1em; }
+dt {margin-top: 1em;}
+.cm-keyword {
+color: green !important;
+}
+.cm-url{
+color: blue !important;
+text-decoration: underline;
+}
+.cm-url:hover{
+color: blue !important;
+text-decoration: underline;
+cursor:pointer;
+}

@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/vishalkc/marcrte#readme",
   "dependencies": {
-    // "js-polyfills": "^0.1.42",
     "raw-loader": "^3.0.0"
   },
   "devDependencies": {

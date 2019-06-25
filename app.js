@@ -5,6 +5,7 @@ import './lib/polyfills'
 import './lib/codemirror.css';
 import './lib/show-hint.css';
 import './lib/docs.css';
+import './lib/customcm.css';
 
 var sc = document.getElementById("modecode");
 var code = document.getElementById("code");
